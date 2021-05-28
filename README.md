@@ -33,3 +33,5 @@ headers:
 -  Content-Type application/json 
 -  Authorization Bearer . $token
 
+для выполнения команды обновления валют нужно выполнить docker exec -it laravel-php php artisan cur:upd
+
